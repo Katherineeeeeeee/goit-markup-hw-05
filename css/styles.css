@@ -567,6 +567,8 @@ color: var(--primary-white-colour);
 .contact-link.mail-tel {
     display: flex;
     align-items: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
     text-decoration: none;
 
 
